@@ -19,3 +19,7 @@ winningsAmount kısmında -> başta 'pledge' (tahahhüt) kısmında girdiğiniz 
 NOT: Girdiğiniz anlık sabit kurunuzun değeri > tahhüt edilen kurun değerinden contract hata verir.
 
 ![This is an image](https://github.com/Memo-Lee/Foreign-Currency-Swap-Web3/blob/main/web3.png)
+
+Video ; 
+
+https://www.loom.com/share/e307d0eb0cbf46a4b128921c3ef734c4
